@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "CROSOFT",
   "bot-account": {
-    "username": "MATHEMATIC5",
+    "username": "CROSOFT",
     "password": "",
     "type": "offline"
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Don't forgey to join Discord Server",
+        "Subscribe to GOD MATHEMATICS, MC MATHAMATICS and DexyPlayz!",
         "I like to play Minecraft!"
       ]
     },
