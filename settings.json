@@ -1,7 +1,7 @@
 {
-  "name": "CROS0FT",
+  "name": "CROSOFT",
   "bot-account": {
-    "username": "CROS0FT",
+    "username": "CROSOFT",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "12345"
+      "password": "123456"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 200,
       "messages": [
         "Don't forget to join our Discord Server!",
-        "Subscribe to GOD MATHEMATICS and MC MATHAMATICS!",
+        "Subscribe to GOD MATHEMATICS, MC MATHAMATICS and DexyPlayz!",
         "Join Discord Server and get Updated!",
         "Thanks for help DexyPlayz!"
       ]
@@ -46,7 +46,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 6,
       "speed": 3000
     },
     "look-around": {
